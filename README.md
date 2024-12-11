@@ -34,15 +34,6 @@
 
 ---
 
-### 📌 Highlighted Projects 
-- **Smart Alarm Systems:** Created and implemented an intelligent control system for alarm networks. The project was recognized as innovative and secured 2nd place in the GEC Day competition organized by the electronics department.  
-- **Modbus Communication Systems:** Conducted an in-depth study and implemented a protocol for automation.  
-- **Patient Appointment and Information Management System:** Developed a desktop application to manage patient records and appointment scheduling. The system was implemented to support a Cytology Pathology Lab, enabling efficient organization of patient data and laboratory appointments.  
-- **Desktop Application for Patient Appointments:** Created a desktop application to manage patient appointments and records for an aesthetic medicine clinic. The application streamlined data handling and enhanced customer service by integrating an intuitive interface for clinic staff.  
-- **Smart Irrigation System:** Automated watering by monitoring soil moisture and weather conditions, optimizing water usage.  
-
----
-
 ### 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/syrine-chiboub-299055259)  
 - [Email](mailto:sirin.chiboub@ieee.org)
