@@ -3,7 +3,7 @@
 👩‍💻 Intelligent Embedded Systems Engineer  
 🎓 I have a bachelor's degree in Electronics and Telecommunications (specialized in IoT) and am currently pursuing an engineering degree in Intelligent Embedded Systems.  
 🌟 I'm proud to be a passionate tech enthusiast who loves creating impactful solutions. Since I was a little kid, I’ve always enjoyed creating things, and my drive to learn has been unmatched.  
-🌟 I’m deeply committed to advancing my expertise in embedded systems and AI, working on projects that bridge the gap between intelligent technologies and real-world applications. From designing innovative IoT solutions to exploring advanced communication protocols, I thrive on tackling challenges that push the boundaries of smart systems and impactful technologies.
+🌟 I’m deeply committed to advancing my expertise in embedded systems and AI, working on projects that bridge the gap between intelligent technologies and real world applications. From designing innovative IoT solutions to exploring advanced communication protocols, I thrive on tackling challenges that push the boundaries of smart systems and impactful technologies.
 
 ---
 
